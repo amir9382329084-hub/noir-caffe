@@ -163,7 +163,7 @@ button {
             rgba(17, 16, 15, 0.75) 50%,
             rgba(17, 16, 15, 0.25) 100%
         ),
-        url("images/hero.jpg")
+        url("image/hero.jpg")
         center/cover no-repeat;
 }
 
@@ -235,7 +235,7 @@ button {
 .about-image {
     min-height: 420px;
     background:
-        url("images/about.jpg")
+        url("image/about.jpg")
         center/cover no-repeat;
 }
 
@@ -285,17 +285,17 @@ button {
 
 .coffee-image {
     background-image:
-        url("images/coffee.jpg");
+        url("image/coffee.jpg");
 }
 
 .dessert-image {
     background-image:
-        url("images/dessert.jpg");
+        url("image/dessert.jpg");
 }
 
 .espresso-image {
     background-image:
-        url("images/espresso.jpg");
+        url("image/espresso.jpg");
 }
 
 .menu-info {
@@ -342,17 +342,17 @@ button {
 
 .gallery-one {
     background-image:
-        url("images/gallery-1.jpg");
+        url("image/gallery-1.jpg");
 }
 
 .gallery-two {
     background-image:
-        url("images/gallery-2.jpg");
+        url("image/gallery-2.jpg");
 }
 
 .gallery-three {
     background-image:
-        url("images/gallery-3.jpg");
+        url("image/gallery-3.jpg");
 }
 
 /* CONTACT */
@@ -406,7 +406,7 @@ body[dir="rtl"] .hero {
             rgba(17, 16, 15, 0.75) 50%,
             rgba(17, 16, 15, 0.25) 100%
         ),
-        url("./images/hero.jpg");
+        url("./image/hero.jpg");
 }
 
 body[dir="rtl"] .hero-content {
